@@ -6,6 +6,13 @@
 <p>4610Fa24Group5</p>
 
 <h2>Team Members:</h2>
+<ul>
+  <li><a href="https://github.com/maadhavan23">Maadhavan Muthuselvan</a></li>
+  <li><a href="https://github.com/kendallbabbs">Kendall Babbs</a></li>
+  <li><a href="https://github.com/LoskiJin">Loski Jin</a></li>
+  <li><a href="https://github.com/saishabadgujar">Saisha Badgujar</a></li>
+  <li><a href="https://github.com/loganmatson">Logan Maston</a></li>
+</ul>
 
 <h2>Data Set Description:</h2>
 <p>The dataset contains detailed records of traffic crashes within the city limits of Chicago under the jurisdiction of the Chicago Police Department(CPD). This dataset covers crash data from select police districts starting in 2015, expanded citywide through 2017 and on. This is a large dataset, including both minor and major crashes recorded by CPD. There are numerous columns within the dataset, but we selected a few key columns to focus on. This includes crash type (categorical), primary contributory cause (categorical), injuries total (numerical), report type (categorical), weather (categorical), crash hour (numerical).</p>
