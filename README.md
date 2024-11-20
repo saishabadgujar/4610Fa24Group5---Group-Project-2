@@ -37,14 +37,13 @@
 <h3>Question #1</h3>
 
 
-
-<img width="540" alt="Screenshot 2024-11-20 at 12 18 40 PM" src="https://github.com/user-attachments/assets/2b065191-aebd-41f2-856c-d73ff4a56386">
+<img width="465" alt="Screenshot 2024-11-20 at 12 35 49 PM" src="https://github.com/user-attachments/assets/44175179-28a8-4d6b-8d34-a4c908380f47">
 
 
 <h3>Question #2</h3>
 <h4>All Crashes</h4>
 
-<img width="652" alt="Screenshot 2024-11-20 at 12 33 36 PM" src="https://github.com/user-attachments/assets/0a4bb4b0-f546-487e-b382-5154db4935db">
+<img width="746" alt="Screenshot 2024-11-20 at 12 35 59 PM" src="https://github.com/user-attachments/assets/1387b291-704e-44d7-b9b2-d94cecb9a430">
 
 <h4>Pedestrian Crashes</h4>
 
