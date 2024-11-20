@@ -34,7 +34,21 @@
 
 <h2>Analysis & Results:</h2>
 
+<h3>Question #1</h3>
 
+
+
+<img width="540" alt="Screenshot 2024-11-20 at 12 18 40 PM" src="https://github.com/user-attachments/assets/2b065191-aebd-41f2-856c-d73ff4a56386">
+
+
+<h3>Question #2</h3>
+<h4>All Crashes</h4>
+
+<img width="652" alt="Screenshot 2024-11-20 at 12 33 36 PM" src="https://github.com/user-attachments/assets/0a4bb4b0-f546-487e-b382-5154db4935db">
+
+<h4>Pedestrian Crashes</h4>
+
+<img width="738" alt="Screenshot 2024-11-20 at 12 33 46 PM" src="https://github.com/user-attachments/assets/d88e5404-82ca-4fd0-91a1-b39024da9041">
 
 <h2>Tableau Packaged Workbook:</h2>
 
