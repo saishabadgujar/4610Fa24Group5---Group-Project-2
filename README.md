@@ -11,7 +11,7 @@
   <li><a href="https://github.com/kendallbabbs">Kendall Babbs</a></li>
   <li><a href="https://github.com/LoskiJin">Loski Jin</a></li>
   <li><a href="https://github.com/saishabadgujar">Saisha Badgujar</a></li>
-  <li><a href="https://github.com/loganmatson">Logan Maston</a></li>
+  <li><a href="https://github.com/loganmatson">Logan Matson</a></li>
 </ul>
 
 <h2>Data Set Description:</h2>
