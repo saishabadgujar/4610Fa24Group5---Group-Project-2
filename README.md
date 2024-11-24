@@ -29,10 +29,8 @@
 
 
 <h2>Manipulations Applied:</h2>
+<p>Instead of analyzing the overall number of injuries, which is biased due to more frequent crash types such as Rear Endings versus Pedestrian Crashes, we calculated the average number of injuries per crash for each crash type. This was achieved by dividing the total number of injuries (SUM [Injuries Total]) by the total number of crashes ([Crash Count]) for each category. This manipulation allowed us to normalize the data, ensuring that crash types with higher frequencies did not disproportionately affect our analysis. As a result, we can accurately see which crash types have the highest impact on injuries, regardless of how often they occur.</p>
 
-
-
-<h2>Analysis & Results:</h2>
 
 <h3>Question #1</h3>
 
@@ -49,7 +47,17 @@
 
 <img width="738" alt="Screenshot 2024-11-20 at 12 33 46 PM" src="https://github.com/user-attachments/assets/d88e5404-82ca-4fd0-91a1-b39024da9041">
 
+<h2>Analysis & Results:</h2>
+<p>The analysis of crash data in the City of Chicago reveals distinct patterns in total injuries and injuries per crash across various crash types, providing important insights into traffic safety. While certain crash types, such as rear-end collisions, contribute to a significant portion of total injuries due to their high frequency, other crash types, including pedestrian-involved crashes, exhibit disproportionately higher injuries per crash. This disparity highlights the severity and danger associated with specific types of accidents. By normalizing the data to account for crash frequency, it becomes evident that crashes involving pedestrians or head-on collisions result in more severe outcomes, even if they occur less frequently. These findings underscore the importance of implementing targeted safety measures, such as improving pedestrian crosswalk designs, enforcing stricter speed regulations, and enhancing driver education. The results call for a deeper understanding of contributing factors to develop more effective interventions and prevent future harm.</p>
+
+
+<h2>Citations:</h2>
+
+
+
 <h2>Tableau Packaged Workbook:</h2>
+
+
 
 
 
