@@ -54,7 +54,8 @@
 <h2>Citations:</h2>
 <h3>City of Chicago. (n.d.). Traffic Crashes - Crashes [Dataset]. Retrieved from <a href="https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data">https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data</a></h3>
 
-<h2>Tableau Packaged Workbook:</h2>
+<h2><a href:"https://docs.google.com/presentation/d/1WW3Qif2VfTisRbleRlYyGdTqupbQf-OkGhLHKTzDKjw/edit?usp=sharing"</a> Slide Deck</h2>
+<p><a href:"https://docs.google.com/presentation/d/1WW3Qif2VfTisRbleRlYyGdTqupbQf-OkGhLHKTzDKjw/edit?usp=sharing"></a>https://docs.google.com/presentation/d/1WW3Qif2VfTisRbleRlYyGdTqupbQf-OkGhLHKTzDKjw/edit?usp=sharing</p>
 
 
 
